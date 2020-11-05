@@ -7,7 +7,7 @@ tags: [audio]
 pin: true
 ---
 
-### wechat kakaotalk adou
+### wechat kakaotalk adou for android
 
 #### Create directory
 ```shell
